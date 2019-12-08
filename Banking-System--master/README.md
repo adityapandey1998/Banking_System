@@ -1,2 +1,2 @@
-# Banking-System-
+# Banking System
 Software Engineering Project 
